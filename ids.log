@@ -1,0 +1,97 @@
+2025-05-23 15:05:38,247 - logging_config - INFO - Тест логов
+2025-05-23 15:05:56,157 - logging_config - INFO - Тест логов
+2025-05-23 15:22:46,460 - root - INFO - Система готова к работе!
+2025-05-23 15:57:44,920 - logging_config - INFO - Успешно загружен Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv (строк: 225745)
+2025-05-23 15:57:46,720 - logging_config - INFO - Успешно загружен Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv (строк: 286467)
+2025-05-23 15:57:48,245 - logging_config - INFO - Успешно загружен Friday-WorkingHours-Morning.pcap_ISCX.csv (строк: 191033)
+2025-05-23 15:57:52,206 - logging_config - INFO - Успешно загружен Monday-WorkingHours.pcap_ISCX.csv (строк: 529918)
+2025-05-23 15:57:54,111 - logging_config - INFO - Успешно загружен Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv (строк: 288602)
+2025-05-23 15:57:55,290 - logging_config - INFO - Успешно загружен Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv (строк: 170366)
+2025-05-23 15:57:58,388 - logging_config - INFO - Успешно загружен Tuesday-WorkingHours.pcap_ISCX.csv (строк: 445909)
+2025-05-23 15:58:03,721 - logging_config - INFO - Успешно загружен Wednesday-workingHours.pcap_ISCX.csv (строк: 692703)
+2025-05-23 15:58:04,248 - logging_config - INFO - Объединенный датасет: 2830743 строк
+2025-05-23 15:59:13,596 - logging_config - INFO - Сохранено в data/processed\1_merged_raw.csv
+2025-05-23 16:30:18,108 - logging_config - INFO - Успешно загружен Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv (строк: 225745)
+2025-05-23 16:30:19,935 - logging_config - INFO - Успешно загружен Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv (строк: 286467)
+2025-05-23 16:30:21,301 - logging_config - INFO - Успешно загружен Friday-WorkingHours-Morning.pcap_ISCX.csv (строк: 191033)
+2025-05-23 16:30:25,384 - logging_config - INFO - Успешно загружен Monday-WorkingHours.pcap_ISCX.csv (строк: 529918)
+2025-05-23 16:30:27,274 - logging_config - INFO - Успешно загружен Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv (строк: 288602)
+2025-05-23 16:30:28,483 - logging_config - INFO - Успешно загружен Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv (строк: 170366)
+2025-05-23 16:30:31,534 - logging_config - INFO - Успешно загружен Tuesday-WorkingHours.pcap_ISCX.csv (строк: 445909)
+2025-05-23 16:30:36,648 - logging_config - INFO - Успешно загружен Wednesday-workingHours.pcap_ISCX.csv (строк: 692703)
+2025-05-23 16:30:37,081 - logging_config - INFO - Объединенный датасет: 2830743 строк
+2025-05-23 16:32:16,693 - logging_config - INFO - После очистки: 2522362 строк
+2025-05-23 16:44:56,792 - logging_config - INFO - Успешно загружен Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv (строк: 225745)
+2025-05-23 16:44:58,464 - logging_config - INFO - Успешно загружен Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv (строк: 286467)
+2025-05-23 16:44:59,794 - logging_config - INFO - Успешно загружен Friday-WorkingHours-Morning.pcap_ISCX.csv (строк: 191033)
+2025-05-23 16:45:03,438 - logging_config - INFO - Успешно загружен Monday-WorkingHours.pcap_ISCX.csv (строк: 529918)
+2025-05-23 16:45:05,270 - logging_config - INFO - Успешно загружен Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv (строк: 288602)
+2025-05-23 16:45:06,465 - logging_config - INFO - Успешно загружен Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv (строк: 170366)
+2025-05-23 16:45:09,401 - logging_config - INFO - Успешно загружен Tuesday-WorkingHours.pcap_ISCX.csv (строк: 445909)
+2025-05-23 16:45:14,063 - logging_config - INFO - Успешно загружен Wednesday-workingHours.pcap_ISCX.csv (строк: 692703)
+2025-05-23 16:45:14,374 - logging_config - INFO - Объединенный датасет: 2830743 строк
+2025-05-23 16:46:48,163 - logging_config - INFO - После очистки: 2522362 строк
+2025-05-23 16:53:03,683 - logging_config - INFO - Успешно загружен Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv (строк: 225745)
+2025-05-23 16:53:05,367 - logging_config - INFO - Успешно загружен Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv (строк: 286467)
+2025-05-23 16:53:06,657 - logging_config - INFO - Успешно загружен Friday-WorkingHours-Morning.pcap_ISCX.csv (строк: 191033)
+2025-05-23 16:53:10,342 - logging_config - INFO - Успешно загружен Monday-WorkingHours.pcap_ISCX.csv (строк: 529918)
+2025-05-23 16:53:12,175 - logging_config - INFO - Успешно загружен Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv (строк: 288602)
+2025-05-23 16:53:13,358 - logging_config - INFO - Успешно загружен Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv (строк: 170366)
+2025-05-23 16:53:16,358 - logging_config - INFO - Успешно загружен Tuesday-WorkingHours.pcap_ISCX.csv (строк: 445909)
+2025-05-23 16:53:21,110 - logging_config - INFO - Успешно загружен Wednesday-workingHours.pcap_ISCX.csv (строк: 692703)
+2025-05-23 16:53:21,398 - logging_config - INFO - Объединенный датасет: 2830743 строк
+2025-05-23 16:54:53,667 - logging_config - INFO - После очистки: 2522362 строк
+2025-05-23 16:58:33,974 - logging_config - INFO - Успешно загружен Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv (строк: 225745)
+2025-05-23 16:58:35,651 - logging_config - INFO - Успешно загружен Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv (строк: 286467)
+2025-05-23 16:58:36,932 - logging_config - INFO - Успешно загружен Friday-WorkingHours-Morning.pcap_ISCX.csv (строк: 191033)
+2025-05-23 16:58:40,549 - logging_config - INFO - Успешно загружен Monday-WorkingHours.pcap_ISCX.csv (строк: 529918)
+2025-05-23 16:58:42,385 - logging_config - INFO - Успешно загружен Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv (строк: 288602)
+2025-05-23 16:58:43,537 - logging_config - INFO - Успешно загружен Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv (строк: 170366)
+2025-05-23 16:58:46,475 - logging_config - INFO - Успешно загружен Tuesday-WorkingHours.pcap_ISCX.csv (строк: 445909)
+2025-05-23 16:58:51,166 - logging_config - INFO - Успешно загружен Wednesday-workingHours.pcap_ISCX.csv (строк: 692703)
+2025-05-23 16:58:51,458 - logging_config - INFO - Объединенный датасет: 2830743 строк
+2025-05-23 17:00:24,115 - logging_config - INFO - После очистки: 2522362 строк
+2025-05-23 17:07:45,939 - logging_config - INFO - Успешно загружен Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv (строк: 225745)
+2025-05-23 17:07:47,625 - logging_config - INFO - Успешно загружен Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv (строк: 286467)
+2025-05-23 17:07:48,905 - logging_config - INFO - Успешно загружен Friday-WorkingHours-Morning.pcap_ISCX.csv (строк: 191033)
+2025-05-23 17:07:52,530 - logging_config - INFO - Успешно загружен Monday-WorkingHours.pcap_ISCX.csv (строк: 529918)
+2025-05-23 17:07:54,327 - logging_config - INFO - Успешно загружен Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv (строк: 288602)
+2025-05-23 17:07:55,475 - logging_config - INFO - Успешно загружен Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv (строк: 170366)
+2025-05-23 17:07:58,447 - logging_config - INFO - Успешно загружен Tuesday-WorkingHours.pcap_ISCX.csv (строк: 445909)
+2025-05-23 17:08:03,181 - logging_config - INFO - Успешно загружен Wednesday-workingHours.pcap_ISCX.csv (строк: 692703)
+2025-05-23 17:08:03,490 - logging_config - INFO - Объединенный датасет: 2830743 строк
+2025-05-23 17:09:31,988 - logging_config - INFO - После очистки: 2520798 строк
+2025-05-26 13:28:01,265 - logging_config - INFO - Успешно загружен Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv (строк: 225745)
+2025-05-26 13:28:03,283 - logging_config - INFO - Успешно загружен Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv (строк: 286467)
+2025-05-26 13:28:04,790 - logging_config - INFO - Успешно загружен Friday-WorkingHours-Morning.pcap_ISCX.csv (строк: 191033)
+2025-05-26 13:28:08,947 - logging_config - INFO - Успешно загружен Monday-WorkingHours.pcap_ISCX.csv (строк: 529918)
+2025-05-26 13:28:10,972 - logging_config - INFO - Успешно загружен Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv (строк: 288602)
+2025-05-26 13:28:12,178 - logging_config - INFO - Успешно загружен Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv (строк: 170366)
+2025-05-26 13:28:15,364 - logging_config - INFO - Успешно загружен Tuesday-WorkingHours.pcap_ISCX.csv (строк: 445909)
+2025-05-26 13:28:20,500 - logging_config - INFO - Успешно загружен Wednesday-workingHours.pcap_ISCX.csv (строк: 692703)
+2025-05-26 13:28:20,918 - logging_config - INFO - Объединенный датасет: 2830743 строк
+2025-05-26 13:29:54,479 - logging_config - INFO - После очистки: 2520798 строк
+2025-05-26 13:30:59,643 - logging_config - INFO - Доступно RAM: 3.8 GB
+2025-05-26 13:30:59,644 - logging_config - WARNING - Мало памяти! Берём только 200k строк
+2025-05-26 13:31:00,069 - logging_config - INFO - Данные уменьшены до 200000 строк
+2025-05-26 13:31:02,816 - logging_config - INFO - Балансировка завершена. Итоговый размер: 2327738 строк
+2025-05-26 13:32:04,128 - logging_config - INFO - 
+Итоговое распределение классов:
+2025-05-26 13:32:10,904 - logging_config - INFO - Train: 1629416 строк, Test: 698322 строк
+2025-05-26 13:33:50,784 - logging_config - INFO - Успешно загружен Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv (строк: 225745)
+2025-05-26 13:33:52,694 - logging_config - INFO - Успешно загружен Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv (строк: 286467)
+2025-05-26 13:33:54,084 - logging_config - INFO - Успешно загружен Friday-WorkingHours-Morning.pcap_ISCX.csv (строк: 191033)
+2025-05-26 13:33:57,994 - logging_config - INFO - Успешно загружен Monday-WorkingHours.pcap_ISCX.csv (строк: 529918)
+2025-05-26 13:33:59,970 - logging_config - INFO - Успешно загружен Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv (строк: 288602)
+2025-05-26 13:34:01,257 - logging_config - INFO - Успешно загружен Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv (строк: 170366)
+2025-05-26 13:34:04,241 - logging_config - INFO - Успешно загружен Tuesday-WorkingHours.pcap_ISCX.csv (строк: 445909)
+2025-05-26 13:34:09,516 - logging_config - INFO - Успешно загружен Wednesday-workingHours.pcap_ISCX.csv (строк: 692703)
+2025-05-26 13:34:09,860 - logging_config - INFO - Объединенный датасет: 2830743 строк
+2025-05-26 13:35:45,354 - logging_config - INFO - После очистки: 2520798 строк
+2025-05-26 13:36:51,002 - logging_config - INFO - Доступно RAM: 4.9 GB
+2025-05-26 13:36:51,506 - logging_config - INFO - Данные уменьшены до 300000 строк
+2025-05-26 13:36:56,589 - logging_config - INFO - Балансировка завершена. Итоговый размер: 3736425 строк
+2025-05-26 13:38:36,695 - logging_config - INFO - 
+Итоговое распределение классов:
+2025-05-26 13:38:50,459 - logging_config - INFO - Train: 2615497 строк, Test: 1120928 строк
+2025-05-26 13:40:33,777 - logging_config - INFO - Обработка завершена успешно!

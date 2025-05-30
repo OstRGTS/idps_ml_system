@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# CSV и pcap_ISCX
+*.csv
+*.pcap_ISCX
+
+# IDE / системные файлы
+.vscode/
+*.log
+
+data/processed
+data/raw

@@ -1,0 +1,32 @@
+from sklearn.model_selection import train_test_split
+from xgboost import XGBClassifier
+import joblib
+import psutil
+
+def train_on_samples(X, y, sample_size=300000):
+
+    def check_memory():
+        mem = psutil.virtual_memory()
+        print(f"RAM до обучения: {mem.available / (1024**3):.2f} GB")
+
+    # Стратифицированное разбиение (чтобы классы были сбалансированы)
+    X_train, X_test, y_train, y_test = train_test_split(
+        X, y, 
+        train_size=sample_size, 
+        stratify=y,  # Важно!
+        random_state=42
+    )
+
+    check_memory()  # <-- До обучения
+    # Облегчённая модель XGBoost
+    model = XGBClassifier(
+        tree_method='hist',  # Оптимизация под память
+        subsample=0.8,       # Используем 80% данных в каждом дереве
+        max_bin=256,        # Уменьшаем число бинов для гистограмм
+        n_estimators=100    # Меньше деревьев -> быстрее
+    )
+    
+    model.fit(X_train, y_train)
+    joblib.dump(model, 'models/xgboost_light.pkl')
+    return model.score(X_test, y_test)
+    check_memory()  # <-- После обучения
